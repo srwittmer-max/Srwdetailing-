@@ -20,7 +20,7 @@ import {
 const WHATSAPP_NUMBER = "15166661876";
 const PHONE_NUMBER = "516-666-1876";
 const EMAIL = "SRWDetailing@Outlook.com";
-const LOCATION = "Tampa & Surrounding Areas";
+const LOCATION = "Tampa, FL & Surrounding Areas";
 const HERO_BG_URL = "https://storage.googleapis.com/aistudio-janus-prod-app-blobs/c9da9add-4244-4b30-b77d-1704b3714962/20241231_145657.png";
 const INSTAGRAM_URL = "https://www.instagram.com/srw_detailing?igsh=NGRxZWN4MnZwaHF1";
 const FACEBOOK_URL = "https://www.facebook.com/share/1HKq5hMPzM/";
@@ -58,7 +58,7 @@ const CREDIBILITY_POINTS = [
 const FAQS = [
   {
     q: "Do you come to my location?",
-    a: "Yes. We offer fully mobile detailing services throughout Tampa and surrounding areas, bringing our premium studio-level care directly to your driveway or garage."
+    a: "Yes. We offer fully mobile detailing services throughout Tampa, FL and surrounding areas, bringing our premium studio-level care directly to your driveway or garage."
   },
   {
     q: "What is paint correction?",
@@ -309,7 +309,7 @@ export default function App() {
               </h2>
               <div className="space-y-6 text-slate-400 text-lg leading-relaxed">
                 <p>
-                  SRW Detailing isn't just about washing cars; it's about restoration and preservation. Based in the heart of Tampa and surrounding areas, we bring luxury detailing to your doorstep.
+                  SRW Detailing isn't just about washing cars; it's about restoration and preservation. Based in the heart of Tampa, FL and surrounding areas, we bring luxury detailing to your doorstep.
                 </p>
                 <p>
                   Whether you require a flawless paint correction, a durable ceramic coating, or a deep interior refresh, we approach every vehicle with the same level of artisan precision. Your investment deserves superior protection.
@@ -445,7 +445,7 @@ export default function App() {
                 Ready to restore your vehicle's <span className="italic font-serif text-blue-500">brilliance?</span>
               </h3>
               <p className="text-slate-400 text-lg mb-10">
-                Contact us today for a custom quote or to schedule your premier detailing service in Tampa or surrounding areas.
+                Contact us today for a custom quote or to schedule your premier detailing service in Tampa, FL or surrounding areas.
               </p>
 
               <div className="flex flex-col gap-4">
